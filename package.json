@@ -1,0 +1,9 @@
+{
+  "name": "stopping_tolfun",
+  "version": "0.1.0",
+  "repo": "hcnn/stopping_tolfun",
+  "description": "Stop the optimization iteration if the new function value does not improve",
+  "keywords": ["stopping criteria", "termination criteria", "gradient descent", "numerical optimization"],
+  "license": "MIT",
+  "src": ["stopping_tolfun.c", "stopping_tolfun.h"]
+}
