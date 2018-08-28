@@ -2,9 +2,9 @@
 
 Stop the optimization iteration if the new target function value does not improve as much anymore
 
-$$
+```
 | f(x_{k+1}) - f(x_k) | < TolFun
-$$
+```
 
 ### Installation
 ```
