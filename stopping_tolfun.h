@@ -4,6 +4,6 @@
 #include <stdbool.h> //bool
 #include <math.h>  //fabs
 
-bool stopping_tolfun(double f1, double f0, double tolfun);
+bool stopping_tolfun(double, double, double);
 
 #endif /* STOPPING_TOLFUN_H */
