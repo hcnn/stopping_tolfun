@@ -31,5 +31,5 @@ cd stopping_tolfun
 make
 ```
 
-### Links
-* http://hcnn.de/docs/stopping_tolfun
+### Explanations
+Further explanations in [README.ipynb](README.ipynb)
